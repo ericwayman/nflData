@@ -1,0 +1,11 @@
+Summary of tests when betting on games where the predicted probability of success is above a threshold. 
+ 
+|Threshold Probability | Proportion of Games  |  Number of Games  |  Success Rate  |  P Value (p=.5)  |  95%% CI
+       0.510           |        0.298         |        1860       |       0.51     |    0.222  |   (0.48,0.52)   
+       0.520           |        0.235         |        1466       |       0.50     |    0.427  |   (0.47,0.53)   
+       0.530           |        0.161         |        1005       |       0.51     |    0.307  |   (0.47,0.53)   
+       0.540           |        0.086         |        537       |       0.52     |    0.194  |   (0.46,0.54)   
+       0.550           |        0.035         |        221       |       0.54     |    0.141  |   (0.43,0.57)   
+       0.560           |        0.012         |        74       |       0.54     |    0.281  |   (0.39,0.61)   
+       0.570           |        0.004         |        22       |       0.59     |    0.262  |   (0.27,0.73)   
+       0.580           |        0.001         |        6       |       0.67     |    0.344  |   (0.17,0.83)   
